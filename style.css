@@ -1,0 +1,39 @@
+html {
+	font-size: 10px;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.container {
+	width: 54em;
+	height: 54em;
+	border: 1px solid black;
+	border-radius: 50%;
+}
+
+.circle {
+	width: 10em;
+	height: 10em;
+	border-radius: 50%;
+}
+
+.circle-0 { background-color: chocolate;  }
+
+.circle-1 { background-color: aqua; }
+
+.circle-2 { background-color: antiquewhite; }
+
+.circle-3 { background-color: crimson; }
+
+.circle-4 { background-color: dimgray; }
+
+.circle-5 { background-color: blueviolet; }
+
+.circle-6 { background-color: fuchsia; }
+
+.circle-7 { background-color: darkgreen; }
+
+.circle-8 { background-color: black; }
+
+.circle-9 { background-color: orangered; }
